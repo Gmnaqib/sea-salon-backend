@@ -38,6 +38,10 @@ Clone the project
 git clone git@github.com:Gmnaqib/sea-salon-backend.git
 ````
 
+```bash
+cd sea-salon-backend
+````
+
 Install the required JavaScript package
 ```bash
 npm i
