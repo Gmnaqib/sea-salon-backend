@@ -43,6 +43,11 @@ Install the required JavaScript package
 npm i
 ````
 
+Run Project
+```bash
+npm run develop
+```
+
 ## ⚙️ Deployment
 
 
