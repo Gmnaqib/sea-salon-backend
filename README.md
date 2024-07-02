@@ -32,7 +32,25 @@ npm run build
 yarn build
 ```
 
+## Run Locally
+Clone the project
+```bash
+git clone git@github.com:Gmnaqib/sea-salon-backend.git
+````
+
+Install the required JavaScript package
+```bash
+npm i
+````
+
+Run Project
+```bash
+npm run develop
+```
+
 ## ⚙️ Deployment
+
+
 
 Strapi gives you many possible deployment options for your project including [Strapi Cloud](https://cloud.strapi.io). Browse the [deployment section of the documentation](https://docs.strapi.io/dev-docs/deployment) to find the best solution for your use case.
 
