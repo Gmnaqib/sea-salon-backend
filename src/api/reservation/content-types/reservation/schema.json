@@ -1,0 +1,36 @@
+{
+  "kind": "collectionType",
+  "collectionName": "reservations",
+  "info": {
+    "singularName": "reservation",
+    "pluralName": "reservations",
+    "displayName": "Reservation",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "serviceName": {
+      "type": "string",
+      "required": true
+    },
+    "userName": {
+      "type": "string",
+      "required": true
+    },
+    "phone": {
+      "type": "string",
+      "required": true
+    },
+    "reservationDate": {
+      "type": "string",
+      "required": true
+    },
+    "reservationTime": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
